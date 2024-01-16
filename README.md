@@ -5,7 +5,7 @@ Creating custom chess puzzle sets using the Lichess Puzzles Database.
 
 I wanted a set of easy puzzles to use as a warm up for online games. Lichess is an open-source chess platform where you can play puzzles sorted by rating and theme, but I wanted more granular control over the puzzle themes/rating.
 
-Lichess maintains a large database of puzzles and I am learning to code so thought it would be a good project to build my own custom puzzle set from that database.
+Lichess maintains a large database of puzzles (https://database.lichess.org/#puzzles) and I am learning to code so thought it would be a good project to build my own custom puzzle set from that database.
 
 Disclaimer: I used ChatGPT to help me write the script because I mostly work in R (but the R chess packages aren’t as good, so Python is used here).
 
