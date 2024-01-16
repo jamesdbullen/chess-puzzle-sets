@@ -15,7 +15,7 @@ To run the code, you will need to download the Lichess Puzzles Database availabl
 
 As described on the website, this database includes more than three million puzzles in a CSV format with fields for FEN, moves (in UCI format), puzzle rating and popularity, puzzle themes and the URL of the game the puzzle comes from.
 
-# Outline.*
+# Outline.
 
 The script allows you to filter based on desirable characteristics (e.g. you may want to specify a theme/themes you want the puzzle to contain, a rating range or other criteria). This means that you could, if you wanted, create a puzzle set of entirely mate-in-one puzzles or puzzles with an endgame theme.
 
